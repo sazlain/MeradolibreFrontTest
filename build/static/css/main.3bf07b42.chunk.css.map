@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.scss"],"names":[],"mappings":"AAAA,SACE,UAAW,CACZ,aAEC,YAAa,CADf,oBAII,wBAAoC,CAJxC,eAQI,UAAY","file":"main.3bf07b42.chunk.css","sourcesContent":[".logoNav {\n  width: 90px;\n}\n.searchInput {\n  display: flex;\n\n  button {\n    background-color: rgb(234, 235, 235);\n  }\n\n  i {\n    color: black;\n  }\n}\n"]}
